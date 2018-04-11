@@ -9,6 +9,7 @@ O que você precisa para instalar o software e instalá-lo
 
 ```
 PHP: >=7.0.0,
+Laravel 5.5
 ```
 
 ### Instalando
@@ -40,6 +41,6 @@ Dar um git clone do projeto
 5. Rode a aplicação com `php artisan serve`
 ```
 
-## Testando a aplicação
+### Testando a aplicação
 
 1. Abra o browser e visite a página http://localhost:8000
