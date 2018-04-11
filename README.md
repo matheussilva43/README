@@ -36,25 +36,11 @@ Dar um git clone do projeto
     `composer update`
     `composer dumpautoload`
     `php artisan migrate --seed`
+```
+```
 5. Rode a aplicação com `php artisan serve`
 ```
 
 ## Testando a aplicação
 
 1. Abra o browser e visite a página http://localhost:8000
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
